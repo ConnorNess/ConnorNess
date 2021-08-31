@@ -1,7 +1,7 @@
-- 👋 Heya, I’m Connor Ness - a postgraduate at Napier studying MSc Computing, previously graduating BEng Computing with honours
+- 👋 Heya, I’m Connor Ness - I just completed my MSc @ Napier and have a BEng from the same institute!
 - 👀 I'm interested in most forms of software development and project management, currently specialising in Python and C#
 - 🌱 I have experience in web development, java, c, c++, c#, python, and a light amount of haskell and ruby
-- 💞️ I am looking for employment starting September 2021 after graduation
+- 💞️ I am looking for employment.... now!
 - 📫 How to reach me - connor.ness@outlook.com
 
 <!---
