@@ -1,7 +1,7 @@
-- 👋 Heya, I’m Connor Ness - I just completed my MSc @ Napier and have a BEng from the same institute!
-- 👀 I'm interested in most forms of software development and project management, currently specialising in Python and C#
+- 👋 Heya, I’m Connor
+- 👀 I'm interested in most forms of software development and project management
 - 🌱 I have experience in web development, java, c, c++, c#, python, and a light amount of haskell and ruby
-- 💞️ I am looking for employment.... now!
+- 💞️ I am currently employed at Lyles Sutherland @ Edinburgh, Leith
 - 📫 How to reach me - connor.ness@outlook.com
 
 <!---
