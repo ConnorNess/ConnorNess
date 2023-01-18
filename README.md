@@ -1,6 +1,6 @@
 - 👋 Heya, I’m Connor
 - 👀 I'm interested in most forms of software development and project management
-- 🌱 I have experience in web development, java, c, c++, c#, python, and a light amount of haskell and ruby
+- 🌱 Current working stack is PHP, MySQL, JS but I have experience in other languages too!
 - 💞️ I am currently employed at Lyles Sutherland @ Edinburgh, Leith
 - 📫 How to reach me - connor.ness@outlook.com
 
