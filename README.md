@@ -1,4 +1,1 @@
-- 🌱 Current working stack is PHP, MySQL, JS but I have experience in other languages too!
-- 💬 Both my dissertations in BEng / MSc comp sci are in Natural Language Programming
-- 😅 Moved a 5 year+ active company SVN repo into Git which had conflicts between main and develop
-- 📫 How to reach me - connor.ness@outlook.com
+
